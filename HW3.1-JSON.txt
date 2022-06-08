@@ -35,8 +35,8 @@ git push
  nano new.json
 {
  "Name": "Kozlova Elena Viktorovna",
- "age": 38
- "pets": 1
+ "age": 38,
+ "pets": 1,
  "desired salary": 2500
 }
 Ctrl O
